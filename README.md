@@ -1,2 +1,3 @@
 # hello-world
-study repository
+学习资料库
+代码改变世界
